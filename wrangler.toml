@@ -1,0 +1,12 @@
+name = "diengaktual24"
+pages_build_output_dir = "public"
+compatibility_date = "2024-09-23"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "diengaktual24-db"
+database_id = "ISI_DENGAN_ID_DATABASE_ANDA"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "diengaktual24-media"
